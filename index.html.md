@@ -1,4 +1,11 @@
-# webpage
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>CSE1210 project</title>
+  </head>
+<body>
+
 <style>
     body{background-color: gray; 
    color: black }
@@ -62,3 +69,5 @@ this website was made utilizing <strong> HTML </strong>, <strong> HTML </strong>
 15. The best thing about making this website, is that i only have experience with <em>python</em>, and that was just recent, so i was essentially going in blind. even if i have had precious experiences with computers,due to having one at home, i've never used markdown or <em>css</em> before, so this was a learning experience, and i believe this is something others should learn.
 <br><br>
 16. Since I plan to go into <em>IT</em> in the future, i'll need to know how websites work so i can fix issues someone may have, in addition, i might need to make my own website if i choose to become a freelancer.
+  </body>
+</html>
