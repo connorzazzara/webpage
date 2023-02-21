@@ -4,9 +4,7 @@
     <meta charset="UTF-8">
     <title>CSE1210 project</title>
   </head>
-<body>
-
-<style>
+<body> <style>
     body{background-color: gray; 
    color: black }
     </style>
